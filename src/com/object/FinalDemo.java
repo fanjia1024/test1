@@ -1,0 +1,17 @@
+package com.object;
+
+/**
+ * Package: com.object
+ * Description：
+ * Author: 范佳
+ * Date: Created in 2019/4/21 0:18
+ * Company: yusys
+ * Copyright: Copyright (c) 2019
+ * Version: 0.0.1
+ */
+public final  class FinalDemo {
+    public final static String name ="李莲英";
+    public  final  static void print(){
+        System.out.println(name);
+    }
+}
